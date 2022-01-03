@@ -1,0 +1,24 @@
+.wrapper{
+    border: 1px dashed;
+    display:flex;
+    flex-direction:row;
+    
+   
+    
+   
+
+}
+
+.wrapper div{
+    border: 1px solid;
+    margin: 10px;
+    width: 200px;
+    height:600px;
+    background-color:lightgray;
+    text-align: center;
+   
+}
+
+:nth-child(2){
+    flex-basis: 400px;
+}

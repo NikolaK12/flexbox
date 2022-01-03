@@ -1,0 +1,19 @@
+.wrapper{
+    border:1px dashed;
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    justify-items: stretch;
+
+
+}
+
+.wrapper div{
+    border:1px solid;
+    margin:10px;
+    width:400px;
+    height:200px;
+    background-color: lightgray;
+    text-align:center;
+
+}

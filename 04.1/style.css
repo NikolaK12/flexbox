@@ -1,0 +1,22 @@
+.wrapper{
+    border:1px dashed;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.wrapper div{
+    border:1px solid;
+    margin:5px;
+    width:600px;
+   
+    height:100px;
+    background-color: lightgray;
+    text-align:center;
+
+
+
+
+
+}
