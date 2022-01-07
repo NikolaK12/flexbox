@@ -1,0 +1,15 @@
+.flex-item{
+    border:1px solid;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+    background-color:lightgray;
+    padding:1px;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
